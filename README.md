@@ -13,7 +13,7 @@ You can donate by sending bitcoin to `bc1q35vyw5rudnttchglj3rch9p2j9xxannumn3muv
 
 ## Usage
 
-Note: It is highly recommended to run PaperBin on Java 15 using ZGC and large pages for best performance.
+Note: It is highly recommended to run PaperBin on Java 16 using ZGC and large pages for best performance.
 
 Download the latest 1.12.2 release from [Paper's website](https://papermc.io/legacy).
 
